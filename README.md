@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
@@ -26,3 +27,7 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 ## How do I deploy this?
 
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+=======
+# t3
+Building a social media App called Hi, this Leverages the T3 stack
+>>>>>>> ea8a64db2d48bf448fe7c92fe9b01f1ad60e96a6
